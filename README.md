@@ -12,6 +12,7 @@ You can use this with Claude Desktop or with OpenWebUI using [mcpo](https://docs
 - **Traceroute**: Identify the network path to any destination.
 - **Nmap Scan**: Perform network scans with customizable arguments to discover devices and services.
 - **Packet Sniffer**: Use `tshark` to capture and analyze network packets, filtered by custom criteria (e.g., DNS, HTTP, ICMP).
+- **SSH connection**: Connect to a device thru ssh and execute commands based on the device platform.
 - **AI Assistant**: Leverage the power of AI to automate routine network tasks and gain deeper insights.
 
 ## Requirements
