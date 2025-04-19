@@ -59,6 +59,8 @@ Prompting Claude AI to discover live host in a network.
 
 [▶️ Watch the demo video](https://youtu.be/DKDpxesDaO8)
 
+![alt text](image-1.png)
+
 ## Contribution
 Contributions are welcome! Feel free to fork the repository, create an issue, or submit a pull request.
 
