@@ -1,6 +1,6 @@
-# **NetSensei** - MCP server Network Administration Assistant
+# **NetSensei** - MCP Server for Network Administration
 
-**NetSensei** is an AI-powered network administration tool that acts as an MCP server to assist network administrators. It provides various network utilities and tools such as ping, traceroute, Nmap scans, and packet sniffing using the Model Context Protocol (MCP) to communicate and process network-related commands.
+**NetSensei** is an MCP server to assist network administrators. It provides various network utilities and tools such as ping, traceroute, Nmap scans, and packet sniffing using the Model Context Protocol (MCP) to communicate and process network-related commands.
 
 ## Usage
 You can use this with Claude Desktop or with OpenWebUI using [mcpo](https://docs.openwebui.com/openapi-servers/mcp/)
@@ -12,7 +12,7 @@ You can use this with Claude Desktop or with OpenWebUI using [mcpo](https://docs
 - **Traceroute**: Identify the network path to any destination.
 - **Nmap Scan**: Perform network scans with customizable arguments to discover devices and services.
 - **Packet Sniffer**: Use `tshark` to capture and analyze network packets, filtered by custom criteria (e.g., DNS, HTTP, ICMP).
-- **SSH connection**: Connect to a device thru ssh and execute commands based on the device platform.
+- **SSH connection**: Connect to a device thru ssh and execute commands based on the device platform (e.g. Ubuntu Server, Cisco, Aruba, etc.).
 - **AI Assistant**: Leverage the power of AI to automate routine network tasks and gain deeper insights.
 
 ## Requirements
