@@ -21,6 +21,7 @@ You can use this with Claude Desktop or with OpenWebUI using [mcpo](https://docs
 - **uvicorn** - ASGI server to run the FastAPI server.
 - **tshark** (Wireshark's command-line tool) must be installed and accessible from your system PATH.
 - **nmap** - For network scanning.
+- **netmiko** - For ssh connection.
 - A supported network interface (e.g., Wi-Fi, Ethernet) for packet sniffing.
 
 ## Installation
